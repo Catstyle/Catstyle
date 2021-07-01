@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io) and [Istio](https://istio.io).
 - 💬 Ask me about tech area things.
 - 📧 How to reach me: [Catstyle.Lee@gmail.com](mailto:Catstyle.Lee@gmail.com)
-- 🎮 A console games lover, FC/MD/SS/PS/PSP...
+- 🎮 A console games lover, FC/MD/SS/PS/PSP/NS...
 
 
 #### Platform&Tools
